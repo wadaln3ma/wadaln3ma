@@ -1,80 +1,40 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Abdulrahman Hamad — Geospatial Developer & Surveying Engineer" width="100%" />
-</p>
+<a href="https://wadaln3ma.github.io">
+  <img src="assets/banner.svg" alt="Abdulrahman Hamad, surveying engineer and geospatial developer, Riyadh" width="100%">
+</a>
 
-# Hi, I’m Abdulrahman Hamad
-**Geospatial Developer & Surveying Engineer** · Riyadh, Saudi Arabia
+I'm a surveying engineer and geospatial developer in Riyadh. I measure the ground, then build the software that makes sense of it: web maps, spatial databases, remote sensing workflows and field tools.
 
-I bridge **field surveying**, **GIS databases**, and **remote sensing analysis** into modern web-based geospatial solutions.
-Passionate about **Civil 3D modeling, UAV photogrammetry, web GIS, and satellite imagery analytics**.
+Registered surveying engineer with the Saudi Council of Engineers, PMP certified, and currently completing Microsoft's .NET full-stack developer certificate.
 
----
+**Portfolio:** [wadaln3ma.github.io](https://wadaln3ma.github.io)
 
-## 🔧 Tech Stack
-<p>
-  <img src="./assets/surveying.svg" width="160" />
-  <img src="./assets/gis.svg" width="160" />
-  <img src="./assets/remote_sensing.svg" width="160" />
-  <img src="./assets/dev.svg" width="160" />
-</p>
+## What I work with
 
-**Surveying & Civil**: Civil 3D (surfaces, corridors, quantities), GNSS/RTK, Total Stations, UAVs, TBC, Metashape  
-**GIS & Databases**: ArcGIS Pro, QGIS, PostGIS, GeoServer, GDAL/OGR, Spatial SQL  
-**Remote Sensing**: Sentinel‑2, Landsat, NDVI, change detection, raster analysis  
-**Programming**: Python (geopandas, rasterio), JS/TS (React, Next.js, Leaflet, MapLibre), Node.js
+| | |
+|---|---|
+| **Surveying** | GNSS/RTK, total stations, UAV photogrammetry, Civil 3D, Trimble Business Center, Metashape |
+| **GIS and spatial data** | ArcGIS Pro, QGIS, PostGIS, GeoServer, GDAL/OGR, spatial SQL |
+| **Remote sensing** | Sentinel-2, Landsat, NDVI and spectral indices, change detection, rasterio |
+| **Software** | C#, ASP.NET Core, Blazor, Python, TypeScript, React, Next.js, Node.js, MapLibre, Leaflet |
 
----
+## Projects
 
-## 🚀 Featured Projects
-### 🗺️ Surveying & Civil Engineering
-- **Surveying Manager** — React/Node.js app to manage survey jobs, crews, and observations. → <https://github.com/wadaln3ma/Surveying-Manager>
+| Project | What it does | Built with |
+|---|---|---|
+| [Surveying Manager](https://github.com/wadaln3ma/Surveying-Manager) | Manages survey jobs, crews and field observations | React, Node.js |
+| [ADS-B Flight Watch](https://github.com/wadaln3ma/plane-notify) | Monitors aircraft ADS-B feeds and alerts when flights enter a defined area | Python |
 
-### 🌐 Web GIS & Databases
-- **Land/Parcel Management Dashboard** *(coming soon)* — Web GIS tool for parcel search, ownership, and spatial analysis.
+**Now building:** TerraTrack, a real-time fleet tracking dashboard with ASP.NET Core, SignalR, PostGIS and MapLibre.
 
-### 🛰️ Remote Sensing
-- **Sentinel‑2 Change Detection** — NDVI workflow for vegetation monitoring and land cover change. (repo coming soon)
+## Credentials
 
-### ✈️ Transport & Airspace
-- **ADS‑B Flight Watch** — Python tool monitoring aircraft ADS‑B feeds, with alerts for corridor studies. → <https://github.com/wadaln3ma/plane-notify>
+- Project Management Professional (PMP), Project Management Institute
+- Registered Surveying Engineer, Saudi Council of Engineers
+- B.Sc. Surveying Engineering, Sudan University of Science and Technology
+- .NET Full-Stack Developer, Microsoft (in progress)
+- Data Science Professional Certificate, IBM
+- Geographic Information Systems, UC Davis
 
----
+## Contact
 
-## 🎓 Certifications
-<p>
-  <img src="./assets/certs.svg" width="160" />
-</p>
-
-- IBM Data Science Professional Certificate (Coursera)  
-- GIS (UC Davis, Coursera)  
-- GIS Fundamentals (2017)  
-- GPS RTK Fundamentals (2016)  
-- Android Basics Nanodegree (Google/Udacity)
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wadaln3ma&show_icons=true&theme=blueberry" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadaln3ma&layout=compact&theme=blueberry" height="160" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wadaln3ma&theme=blueberry" height="160" />
-</p>
-
----
-
-## 📬 Get in Touch
-<p>
-  <img src="./assets/contact.svg" width="160" />
-</p>
-
-- Email: **[wadaln3ma@gmail.com](mailto:wadaln3ma@gmail.com)**  
-- Portfolio: <https://wadaln3ma.github.io>  
-- LinkedIn: *(add if you have one)*  
-- Saudi Council of Engineers — Registered Surveying Engineer
-
----
-
-> “Maps are the language of geography, but also the future of data.”
+[Email](mailto:wadaln3ma@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/wadaln3ma) &nbsp;·&nbsp; [Portfolio](https://wadaln3ma.github.io) &nbsp;·&nbsp; [X](https://x.com/AAlniema)
